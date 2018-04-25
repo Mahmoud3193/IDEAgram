@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "229564119727",
+    "firebase_url": "https://ideagram-84f44.firebaseio.com",
+    "project_id": "ideagram-84f44",
+    "storage_bucket": "ideagram-84f44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229564119727:android:5de4d95c2636e723",
+        "android_client_info": {
+          "package_name": "com.and.ideagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229564119727-qgs19hgqkarcs2q2sq497g8kkcq28um3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj5TTZSo1P_bCgFSWZ-Hl3zwEsAMUiEo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
